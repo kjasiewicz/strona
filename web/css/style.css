@@ -514,14 +514,17 @@ Left Home
 Right Home
 ========================================================================== */
 .right-home {
-  background-color: #d40e52;
+  background-color: #e05151;
   /* Background Color */
   height: 100vh; }
 
 .right-home span {
   color: #fff; }
 
-
+.desc{
+  color: #333333;
+  font-size: 20px;
+}
 /* ==========================================================================
   My Work Slider ::
 ========================================================================== */
